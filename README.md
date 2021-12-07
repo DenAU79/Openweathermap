@@ -12,7 +12,6 @@ An automated test for "Best Sellers" tab with adding, verifying and removing spe
 
 Node version v13.14.0 or higher.
 
-Google Chrome Version 96.0.0
 
 ## 🎮 Usage
 
