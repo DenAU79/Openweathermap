@@ -1,12 +1,10 @@
 # Openweathermap
 
-Suite of automated tests to test the functionality of a current weather API using “By City name” variant.
-
 ### _Welcome to Openweathermap_
 
 ## 📄 Description
 
-An automated test for "Best Sellers" tab with adding, verifying and removing specific item to and from Shopping cart.
+Suite of automated tests to test the functionality of a current weather API using “By City name” variant.
 
 ## ⚙️ Requirements
 
