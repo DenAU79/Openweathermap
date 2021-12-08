@@ -8,14 +8,16 @@ Suite of automated tests to test the functionality of a current weather API usin
 
 ## ⚙️ Requirements
 
-Node version v13.14.0 or higher.
+### _Openweathermap Api key_
 
+Node version v13.14.0 or higher.
 
 ## 🎮 Usage
 
 1. Git clone https://github.com/DenAU79/Openweathermap.git
 2. Run following command in a terminal: npm i
-3. To run test file - npx wdio wdio.conf.js
+3. Open file openweather-api.js and assign your API key into a variable "apiKey"
+4. To run test file - mocha test
 
 ## 😋 Who cooked it?
 
